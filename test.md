@@ -30,4 +30,5 @@
 Перемещение файлов:
 - **mv app1/*.* app2** — Переместить все файлы из папки app1 в папку app2
 
-*Next*...
+![Изображение](git-cheat-sheet-education_page-0001.jpg "Логотип Markdown")
+![Изображение](git-cheat-sheet-education_page-0002.jpg "Логотип Markdown")
